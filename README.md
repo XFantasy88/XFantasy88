@@ -11,3 +11,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XFantasy88&show_icons=true&theme=omni&hide_border=true)
 
+![snake gif](https://github.com/XFantasy88/XFantasy88/blob/output/github-contribution-grid-snake.gif)
