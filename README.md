@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/112987981/189151245-6fbb7b80-fd0b-4a17-99cd-39de996ef5e6.png)
+![welcome_PNG78](https://user-images.githubusercontent.com/112987981/189228480-80d6c3ba-7ef7-429b-b8d8-4d74afeb5196.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=30&pause=1000&color=FFD66A&center=true&vCenter=true&width=1920&lines=Senior+Full+Stack+Developer;Senior+Blockchain+Developer)](https://git.io/typing-svg)
 
