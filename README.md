@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/112987981/189151245-6fbb7b80-fd0b-4a17-99cd-39de996ef5e6.png">
 </p>
 
-<h3>About ME</h3>
+<h4>About ME</h4>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=&pause=2000&color=F7DE47&center=true&vCenter=true&width=435&lines=Senior+Blockchain+Developer;Senior+Full+Stack+Developer" alt="Typing SVG" />
 </p>
