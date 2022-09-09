@@ -5,8 +5,13 @@
 ------------
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=XFantasy88&repo=XFantasy88&countColorcountColor)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=XFantasy88&theme=omni&hide_border=true)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XFantasy88&layout=compact&theme=omni&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XFantasy88&show_icons=true&theme=omni&hide_border=true)![Trophy](https://github-profile-trophy.vercel.app/?username=XFantasy88&theme=radical&column=3&no-frame=true&margin-w=-4&margin-h=-4)
+<p align="center">
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=XFantasy88&theme=omni&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XFantasy88&layout=compact&theme=omni&hide_border=true">
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XFantasy88&show_icons=true&theme=omni&hide_border=true">
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=XFantasy88&theme=radical&column=3&no-frame=true&margin-w=-4&margin-h=-4">
+</p>
 
 ![snake gif](https://github.com/XFantasy88/XFantasy88/blob/output/github-contribution-grid-snake.gif)
