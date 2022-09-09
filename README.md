@@ -8,7 +8,7 @@
 
 ------------
 <p>
-  <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=XFantasy88&repo=XFantasy88&countColorcountColor" />
+  <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=XFantasy88&repo=XFantasy88&countColorcountColor&logo=Github" />
 </p>
 
 
