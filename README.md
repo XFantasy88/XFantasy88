@@ -1,6 +1,10 @@
-![](https://user-images.githubusercontent.com/112987981/189151245-6fbb7b80-fd0b-4a17-99cd-39de996ef5e6.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/112987981/189151245-6fbb7b80-fd0b-4a17-99cd-39de996ef5e6.png">
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=30&pause=1000&color=FFD66A&center=true&vCenter=true&width=1920&lines=Senior+Full+Stack+Developer;Senior+Blockchain+Developer)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=&pause=2000&color=F7DE47&center=true&vCenter=true&width=435&lines=Senior+Blockchain+Developer;Senior+Full+Stack+Developer" alt="Typing SVG" />
+</p>
 
 ------------
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=XFantasy88&repo=XFantasy88&countColorcountColor)
