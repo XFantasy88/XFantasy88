@@ -20,6 +20,7 @@ I'm always pushing myself, my projects and my peers. I can get by in three human
 
 <div>
 <h3 align="left">Skill Set</h3>
+	---------
     <p><b>- Front-end: </b> HTML, CSS, JQuery, Bootstrap, React, Vue, Angular, Next, Nuxt, MUI, TailwindCSS, ... </p>
     <p margin-left="30px">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
