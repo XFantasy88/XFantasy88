@@ -38,9 +38,6 @@ I'm always pushing myself, my projects and my peers. I can get by in three human
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" alt="less" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="30" height="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="30" height="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
     </p>
     <p><b>- Back-End: </b> NodeJS, PHP, Laravel, CI, WordPress, Django, MongoDB, MySQL, PostgreSQL, ... </p>
 		<p>
@@ -55,9 +52,7 @@ I'm always pushing myself, my projects and my peers. I can get by in three human
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="30" height="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socketio" width="30" height="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-original.svg" alt="yii" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zend/zend-plain.svg" alt="zend" width="30" height="30"/>
@@ -70,9 +65,7 @@ I'm always pushing myself, my projects and my peers. I can get by in three human
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="30" height="30"/>
-      <img src="https://user-images.githubusercontent.com/112987981/189345199-1b948891-b067-49b2-9c85-c6eea9c51776.svg" alt="vyper" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="mocha" width="30" height="30"/>
     </p>
   </div> 
 
