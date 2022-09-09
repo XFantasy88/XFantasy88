@@ -20,7 +20,7 @@ I'm always pushing myself, my projects and my peers. I can get by in three human
 
 <div>
 <h3 align="left">Skill Set</h3>
-    <p><b>- Front-End: </b> HTML, CSS, JQuery, Bootstrap, React, Vue, Angular, Next, Nuxt, MUI, TailwindCSS, ... </p>
+    <p><b>- Front-end: </b> HTML, CSS, JQuery, Bootstrap, React, Vue, Angular, Next, Nuxt, MUI, TailwindCSS, ... </p>
     <p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
@@ -39,7 +39,7 @@ I'm always pushing myself, my projects and my peers. I can get by in three human
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/>
     </p>
-    <p><b>- Back-End: </b> NodeJS, PHP, Laravel, CI, WordPress, Django, MongoDB, MySQL, PostgreSQL, ... </p>
+    <p><b>- Back-end: </b> NodeJS, PHP, Laravel, CI, WordPress, Django ... </p>
 		<p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
@@ -47,19 +47,22 @@ I'm always pushing myself, my projects and my peers. I can get by in three human
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="30" height="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socketio" width="30" height="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-original.svg" alt="yii" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zend/zend-plain.svg" alt="zend" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="tomcat" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="30" height="30"/>
     </p>
+	<p><b>- Database: </b> MongoDB, MySQL, PostgreSQL, SQLite, ...</p>
+	<p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="30" height="30"/>
+	</p>
     <p><b>- Smart Contract: </b> Solidity, Rust, C++, Vyper, Golang, ... </p>
 	<p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="30" height="30"/>
