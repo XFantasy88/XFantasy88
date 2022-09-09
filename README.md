@@ -18,6 +18,8 @@
 I'm always pushing myself, my projects and my peers. I can get by in three human languages and a dozen programming ones. I never stopped programming. Why? Solving problems is a rush
 </p>
 
+
+<h4>Status</h4>
 <p align="left">
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=XFantasy88&theme=omni&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XFantasy88&layout=compact&theme=omni&hide_border=true" />
