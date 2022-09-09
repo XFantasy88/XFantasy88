@@ -12,13 +12,12 @@
 </p>
 
 
-<h4>About Me</h4>
+<h3>About Me</h3>
 <p align="left">
   I'm a self-motivated, detail-oriented software engineer experienced in bringing projects from whitepaper level to secure, efficient, tested implementations, specializing in the fiddly bits. I have professional experience in React, Node, deterministic code, blockchains, REST APIs, SQL, NoSQL, and a variety of other technologies.
 I'm always pushing myself, my projects and my peers. I can get by in three human languages and a dozen programming ones. I never stopped programming. Why? Solving problems is a rush
 </p>
 
-<h4>Skills</h4>
 <div>
 <h3 align="left">Skill Set</h3>
     <p><b>- Front-End: </b> HTML, CSS, JQuery, Bootstrap, React, Vue, Angular, Next, Nuxt, MUI, TailwindCSS, ... </p>
@@ -71,13 +70,13 @@ I'm always pushing myself, my projects and my peers. I can get by in three human
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="30" height="30"/>
-      <img src="https://vyper.readthedocs.io/en/stable/_images/vyper-logo-transparent.svg" alt="vyper" width="30" height="30"/>
+      <img src="https://user-images.githubusercontent.com/112987981/189345199-1b948891-b067-49b2-9c85-c6eea9c51776.svg" alt="vyper" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="mocha" width="30" height="30"/>
     </p>
   </div> 
 
-<h4>Status</h4>
+<h3>Status</h3>
 <p align="left">
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=XFantasy88&theme=omni&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XFantasy88&layout=compact&theme=omni&hide_border=true" />
